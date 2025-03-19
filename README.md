@@ -14,9 +14,11 @@ Este es un espacio donde compartiré recursos, códigos y materiales relacionado
 2. Revisa el código fuente
 3. ¡Déjame tus comentarios!
 
-### Contacto
+### Redes Sociales 🌐
+- 📱 Instagram: [@tuInstagram]
+- 💼 LinkedIn: [Tu Perfil]
+- 🐦 Twitter: [@tuTwitter]
 - 📺 YouTube: [Tu Canal]
-- 🐦 Twitter: [@tuUsuario]
 - 📧 Email: [tu@email.com]
 
 ---
