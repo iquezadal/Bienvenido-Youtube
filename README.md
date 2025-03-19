@@ -16,7 +16,7 @@ Este es un espacio donde compartiré recursos, códigos y materiales relacionado
 
 ### Redes Sociales 🌐
 - 📱 Instagram: [@iquezadal]
-- 💼 LinkedIn: [Tu Perfil]
+- 💼 LinkedIn: [@iquezadal]
 - 🐦 Twitter: [@tuTwitter]
 - 📺 YouTube: [@iquezadal]
 - 📧 Email: [tu@email.com]
